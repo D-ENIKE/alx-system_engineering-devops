@@ -1,2 +1,2 @@
 #!/bin/bash
-currentDir=$(cd $(dirname "$0")pwd)
+readlink -f “${BASH_SOURCE:-$0}”
