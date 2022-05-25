@@ -1,2 +1,2 @@
 #!/bin/bash
-echo script $currentDir
+currentDir=$(cd $(dirname "$0")pwd)
