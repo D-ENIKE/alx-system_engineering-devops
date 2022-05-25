@@ -1,2 +1,2 @@
 #!/bin/bash
-scriptdir="$( dirname -- "$BASH_SOURCE"; )"
+$(dirname "$(readlink -f "$BASH_SOURCE")")
