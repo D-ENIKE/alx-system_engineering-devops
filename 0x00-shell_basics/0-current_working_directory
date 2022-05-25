@@ -1,2 +1,2 @@
 #!/bin/bash
-./tmp/correction/5597739629049648244971223560717279349945_5/205/49386/0x00-shell_basics
+dirname "$(realpath $0)"
