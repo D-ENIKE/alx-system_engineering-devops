@@ -1,2 +1,2 @@
 #!/bin/bash
-SCRIPT_PATH=$(dirname `which $0`)
+echo script $currentDir
