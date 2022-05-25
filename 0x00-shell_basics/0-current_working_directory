@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+scriptdir="$( dirname -- "$BASH_SOURCE"; )"
