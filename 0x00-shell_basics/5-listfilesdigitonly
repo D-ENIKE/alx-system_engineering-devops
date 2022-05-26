@@ -1,12 +1,14 @@
-<<<<<<< HEAD
-#!/bin/bash
-ls -n
 #!/bin/bash
 ls-aln
 =======
 
+<<<<<<< HEAD
 >>>>>>> 58e781b1409d8e0515a6b96addf038ff36a75a35
 #!/bin/bash
 ls -aln
 #!/bin/bash
 ls -aln
+=======
+>>>>>>> a259b49732588bae2d8d49ca99d5b08f050a04f6
+#!/bin/bash
+ls -lan
