@@ -9,3 +9,5 @@ ls -aln
 >>>>>>> a259b49732588bae2d8d49ca99d5b08f050a04f6
 #!/bin/bash
 ls -lan
+#!/bin/bash
+ls -lan
