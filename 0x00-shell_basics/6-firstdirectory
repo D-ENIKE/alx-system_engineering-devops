@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 #!/bin/bash
 #!/bin/bash
 #!bin/bash
+=======
+
+>>>>>>> f3c237bedb8ec9b0114b7c1da21cbc4167a08130
+#!/bin/bash
+mkdir tmp
