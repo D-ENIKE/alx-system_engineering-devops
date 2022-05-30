@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/passwd 
+wc -l 2-hellofile 
