@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l 2-hellofile 
+cat -m /etc/passwd /etc/hosts
